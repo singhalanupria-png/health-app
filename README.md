@@ -74,3 +74,6 @@ HealthReportApp/
 - iOS 16.0+
 - Xcode 15.0+
 - Swift 5.9+
+
+## Built by
+Anupriya Singhal — Senior Product Manager with 11 years in enterprise fintech. This app was built independently to explore applied AI product development.
