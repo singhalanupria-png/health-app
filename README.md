@@ -2,6 +2,8 @@
 
 iOS app (SwiftUI) for health report explanation following Phase 0 product rules.
 
+A consumer iOS app that helps users understand their health reports without medical jargon. Built independently as an applied AI product prototype — designed, architected, and developed end to end using SwiftUI, OpenAI APIs, and Apple's Vision framework for OCR. Demonstrates practical AI product design principles including responsible AI guardrails, LLM input/output constraints, and human-safe explanation generation.
+
 ## Features
 
 - Upload health reports (PDF or images) from library, camera, or files
